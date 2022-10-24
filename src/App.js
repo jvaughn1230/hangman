@@ -17,6 +17,7 @@ function App() {
         <Figure />
         <WrongLetters />
         <Word />
+        <div>Testings</div>
       </div>
       
     </div>
